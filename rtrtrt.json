@@ -1,1 +1,33 @@
+{
+  "bio_part_window_name": "wakealfendi",
+  "bio_part_profile_picture_link": "https://mangodinyo.github.io/wakealfendi/images/wakepfp.jpg",
+  "bio_part_username": "wakealfendi",
+  "youtube_link": "https://youtube.com/@wakealfendi",
+  "discord_link": "https://discord.com/users/677267169880571926",
+  "tiktok_link": "https://tiktok.com/@wakealfendi",
+  "instagram_link": "https://instagram.com/wakealfendi",
+  "twitter_link": "https://twitter.com/wakealfendi",
 
+  "aboutme_part_window_name": "about me",
+  "aboutme_part_content_line1": "I am Wake Alfendi, a video editor from Germany.",
+  "aboutme_part_content_line2": "I have been editing for over a year now, and I have made it my mission to transform my clients' vision into a video they can be proud of.",
+  "aboutme_part_content_line3": "I am there to help you if you need someone to edit your vlogs, gaming videos, montages, or video game trailers!",
+  "aboutme_part_content_line4": "My prices are fair to ensure customer satisfaction!",
+  "aboutme_part_content_line5": "wakealfendi@gmail.com",
+  "aboutme_part_send_mail_button_content": "Contact Me",
+
+  "clients_part_window_name": "clients",
+  "clients_part_client1_name": "Mikhol",
+  "clients_part_client1_image_link": "https://mangodinyo.github.io/wakealfendi/images/mihkol.png",
+  "clients_part_client1_link": "https://www.youtube.com/@LoLMihkol",
+  "clients_part_client2_name": "Project Sparrow",
+  "clients_part_client2_image_link": "https://mangodinyo.github.io/wakealfendi/images/sparrow.png",
+  "clients_part_client2_link": "https://www.youtube.com/@projectsparrow4345",
+  "clients_part_client3_name": "Riko and Tako",
+  "clients_part_client3_image_link": "https://mangodinyo.github.io/wakealfendi/images/riko.png",
+  "clients_part_client3_link": "https://www.youtube.com/@RikoandTako",
+  
+  "window_top_color_rgb": "51, 51, 51",
+  "background_video_link": "https://mangodinyo.github.io/wakealfendi/images/PunLooped.mp4",
+  "e_mail": "WakeAlfendi@gmail.com"
+}
